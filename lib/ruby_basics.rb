@@ -24,5 +24,5 @@ end
 
 def pizza_party(arg = "cheese")
 puts arg
-returns arg
+return arg
 end
